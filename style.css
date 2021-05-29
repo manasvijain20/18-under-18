@@ -1,0 +1,96 @@
+body
+{
+    background: rgb(248,235,255);
+background: linear-gradient(90deg, rgba(248,235,255,1) 0%, rgba(219,108,255,1) 100%);
+}
+
+.header
+{
+	color: white;
+    font-family: 'Yeon Sung';
+    font-size: 45px;
+    letter-spacing: 10px;
+    margin-top: 80px;
+}
+
+
+.login_div
+{
+    margin-top: 50px;
+	background: rgba(255,255,255,0.8);
+    float: none;
+    border-radius: 15px;
+    font-family: Comic Sans MS;
+    width: 40%;
+    color: black;
+    box-shadow: 1px 1px 30px #9700A2;
+}
+span{
+    margin-top: 20px;
+
+   height:76px;
+  display: -ms-flexbox;
+  display:flexbox;
+  display:flex;
+  text-align:center;
+  align-items:center;
+  justify-content:center;
+}
+choose_author html{
+    color: black;
+}
+#author_name{
+    margin-left: 15px;
+    margin-right: 15px;
+    color: black;
+    font-size: 20px;
+}
+
+.logo
+{
+	width: 8%;
+    border-radius: 100px;
+}
+
+#login_button
+{
+	width: 30%;
+    border-radius: 15px;
+}
+
+#title{
+    font-family: 'Limelight', cursive;
+    font-size: 55px;
+    color: black;
+    margin-top: 20px;
+    padding-top: 10px;
+    margin-left: 19px;
+}
+.input_div_message_page
+{
+    margin-top: 50px;
+	background: rgba(255,255,255,0.8);
+    float: none;
+    border-radius: 15px;
+    font-family: Comic Sans MS;
+    width: 50%;
+    color: black;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}
+#reviews{
+    margin-top: 60px;
+    background-color: cornsilk;
+    border-radius: 15px;
+    width: 80%;
+}
+footer{
+    text-align: center;
+  padding: 3px;
+  color: darkgray;
+  position: fixed;
+  bottom: 0px;
+}
