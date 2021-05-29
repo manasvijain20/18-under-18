@@ -7,4 +7,8 @@ function addUser()
 function new_page(){
     window.location = "reviews.html";
 }
+function logout(){
+    window.location = "index.html";
+}
+
 
